@@ -16,3 +16,8 @@
 
 
 A ideia é entregar o aplicativo da melhor maneira possível, conforme as funcionalidades descritas. 
+
+##Exemplo
+
+
+<img src="https://media.giphy.com/media/hKrUcqLdMJQxTmzf6G/giphy.gif" width="40%" height="40%" />
