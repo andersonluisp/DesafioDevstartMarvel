@@ -1,4 +1,4 @@
-# Desafio Marvel / Marvel's challeng
+# Desafio Marvel / Marvel's challenge
 
 ## [PT-BR]Para a etapa do desafio técnico, convidamos você a desenvolver um app para Android com as seguintes funcionalidades: 
 
